@@ -26,7 +26,7 @@ endmsg = "\r\n.\r\n"
 msgRoot.attach(msg)
 msgRoot.attach(msgImg)
 
-recipient = '<nguyenminhnaru@gmail.com>'
+recipient = '<tnguyen28@umassd.edu>'
 sender = '<minhwhale@gmail.com>'
 username = 'minhwhale'
 password = 'minhnguyen123'
